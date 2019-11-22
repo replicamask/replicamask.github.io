@@ -48,3 +48,10 @@ body {
   bottom: 0%;
   align-content: center;
 }
+/*it's cats! */
+.cats {
+  width: 40%;
+  height: 40%x;
+  margin: auto;
+  display: block;
+}
