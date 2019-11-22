@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: LightGray;
+}
+
+.header {
+  color: darkorange;
+  padding: 10px;
+  background-color: lightblue;
+  width: 100%;
+  text-align: center;
+}
+
+.top-content {
+  font-style: italic;
+  width: 600px;
+  text-align: center;
+  margin: auto;
+}
+
+.main-content {
+  overflow-wrap: normal;
+  width: 600px;
+  text-align: center;
+  margin: auto;
+}
+.basic_styling {
+  margin: 25px;
+  padding: 25px;
+}
+
+.links {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.links a{
+  margin: 25px;
+  padding: 25px;
+}
+
+#footer {
+  width: 100px;
+  text-align: center;
+  margin: auto;
+  position: relative;
+  bottom: 0%;
+  align-content: center;
+}
